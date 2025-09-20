@@ -1,4 +1,4 @@
-# Experiment 1: ALU Design using Enumerated Data Types and Case Statements
+# Experiment 1: ALU Design using Enumerated Data Types and Case Statement
 
 ---
 
